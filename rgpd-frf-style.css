@@ -1,0 +1,13 @@
+.rgpd_frf_check {
+	font-size: .825em;
+}
+
+.rgpd_frf_check a{
+	color: inherit;
+    text-decoration: underline;
+}
+
+.rgpd_frf_info{
+	font-size: .7em;
+    text-align: left;
+}
